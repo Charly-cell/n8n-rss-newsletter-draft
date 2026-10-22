@@ -15,6 +15,8 @@ An n8n workflow of 7 nodes. With one click, it reads the latest articles of a pu
 | [`workflow/`](workflow/rss-to-newsletter-draft.json) | The n8n workflow, exported as JSON |
 | [`video/`](video/Charly_JEDHA_presentation.mp4) | Presentation video of the use case and learning goals (1 min 35) |
 
+Notes: GitHub's preview does not make links in a PDF clickable and cannot play files over 10 MB. Download the PDF to use its links, and use **Download raw file** on the video page to watch the video.
+
 ## Prerequisites
 - A Google account
 - A free [n8n Cloud trial](https://n8n.io) (14 days)
